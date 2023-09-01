@@ -1,2 +1,2 @@
-#!/bin/basjh
+#!/bin/basj
 chmod ugo+x hello
